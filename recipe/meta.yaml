@@ -25,6 +25,7 @@ requirements:
     - cython
     - pip
     - python
+    - setuptools
   run:
     - python
     - tree_sitter
