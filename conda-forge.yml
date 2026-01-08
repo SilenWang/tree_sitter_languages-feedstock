@@ -1,3 +1,6 @@
+provider:
+  linux_aarch64: azure
+
 bot:
   inspection: hint-all
 build_platform:
